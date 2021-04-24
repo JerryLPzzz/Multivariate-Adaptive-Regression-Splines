@@ -1,10 +1,18 @@
+# Group 7 Member List
+
+-   Enwongo Ekanem (StudentID: 301307860)
+
+-   Peiyuan Li (StudentID: 301246443)
+
+-   Nandar May (StudentID: 301316993)
+
 > ### Files:
 
 -   mars.R
 
     -   contains functions to carry out the MARS algorithm. functions
-        included are fwd_stepwise, bwd_stepwise, and 3 supporting
-        functions
+        included are fwd_stepwise, bwd_stepwise, 3 supporting
+        functions, and etc...
 
 -   anova.mars()
 
